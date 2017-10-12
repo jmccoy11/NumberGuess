@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberGuess</string>
+    <string name="out_of_range">Number is out of range!</string>
+    <string name="NAN">That is not a number!</string>
+    <string name="empty">Please enter a number!</string>
+    <string name="higher">The number is higher!</string>
+    <string name="lower">The number is lower!</string>
+</resources>
